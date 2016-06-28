@@ -17,5 +17,6 @@
 <foaf:workInfoHomepage rdf:resource="Software Developer"/>
 <foaf:schoolHomepage rdf:resource="http://www.montana.edu/"/>
 <foaf:knows rdf:resource="http://www.stanford.edu/~laneymcg/laney.rdf"/>
+<foaf:knows rdf:resource="http://www.stanford.edu/~thorsenh/foaf.rdf"/>
 </foaf:Person>
 </rdf:RDF>
