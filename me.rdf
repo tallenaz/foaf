@@ -18,5 +18,7 @@
 <foaf:schoolHomepage rdf:resource="http://www.montana.edu/"/>
 <foaf:knows rdf:resource="http://www.stanford.edu/~laneymcg/laney.rdf"/>
 <foaf:knows rdf:resource="http://www.stanford.edu/~thorsenh/foaf.rdf"/>
+<foaf:interest rdf:resource="http://dbpedia.org/page/Bass_guitar"/>
+<foaf:interest rdf:resource="http://dbpedia.org/page/Point_Break"/>
 </foaf:Person>
 </rdf:RDF>
